@@ -1,0 +1,15 @@
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Contract\bin\Debug\net6.0\NidParcAuto.Contract.deps.json
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Contract\bin\Debug\net6.0\NidParcAuto.Contract.dll
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Contract\bin\Debug\net6.0\NidParcAuto.Contract.pdb
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.csproj.AssemblyReference.cache
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.GeneratedMSBuildEditorConfig.editorconfig
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.AssemblyInfoInputs.cache
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.AssemblyInfo.cs
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.csproj.CoreCompileInputs.cache
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.dll
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\refint\NidParcAuto.Contract.dll
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.pdb
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\ref\NidParcAuto.Contract.dll
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Contract\bin\Debug\net6.0\NidParcAuto.Entities.dll
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Contract\bin\Debug\net6.0\NidParcAuto.Entities.pdb
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.csproj.CopyComplete

@@ -1,0 +1,12 @@
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Security\bin\Debug\net6.0\NidParcAuto.Security.deps.json
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Security\bin\Debug\net6.0\NidParcAuto.Security.dll
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Security\bin\Debug\net6.0\NidParcAuto.Security.pdb
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Security\obj\Debug\net6.0\NidParcAuto.Security.csproj.AssemblyReference.cache
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Security\obj\Debug\net6.0\NidParcAuto.Security.GeneratedMSBuildEditorConfig.editorconfig
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Security\obj\Debug\net6.0\NidParcAuto.Security.AssemblyInfoInputs.cache
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Security\obj\Debug\net6.0\NidParcAuto.Security.AssemblyInfo.cs
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Security\obj\Debug\net6.0\NidParcAuto.Security.csproj.CoreCompileInputs.cache
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Security\obj\Debug\net6.0\NidParcAuto.Security.dll
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Security\obj\Debug\net6.0\refint\NidParcAuto.Security.dll
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Security\obj\Debug\net6.0\NidParcAuto.Security.pdb
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Security\obj\Debug\net6.0\ref\NidParcAuto.Security.dll

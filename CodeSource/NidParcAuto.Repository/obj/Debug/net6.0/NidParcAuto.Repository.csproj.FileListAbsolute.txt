@@ -1,0 +1,17 @@
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Repository\bin\Debug\net6.0\NidParcAuto.Repository.deps.json
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Repository\bin\Debug\net6.0\NidParcAuto.Repository.dll
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Repository\bin\Debug\net6.0\NidParcAuto.Repository.pdb
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.csproj.AssemblyReference.cache
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.GeneratedMSBuildEditorConfig.editorconfig
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.AssemblyInfoInputs.cache
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.AssemblyInfo.cs
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.csproj.CoreCompileInputs.cache
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.dll
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\refint\NidParcAuto.Repository.dll
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.pdb
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\ref\NidParcAuto.Repository.dll
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Repository\bin\Debug\net6.0\NidParcAuto.Contract.dll
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Repository\bin\Debug\net6.0\NidParcAuto.Entities.dll
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Repository\bin\Debug\net6.0\NidParcAuto.Contract.pdb
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Repository\bin\Debug\net6.0\NidParcAuto.Entities.pdb
+G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.csproj.CopyComplete
