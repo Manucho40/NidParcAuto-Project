@@ -10,3 +10,15 @@ G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Security\obj\Debug\net6.0
 G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Security\obj\Debug\net6.0\refint\NidParcAuto.Security.dll
 G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Security\obj\Debug\net6.0\NidParcAuto.Security.pdb
 G:\.net\NidParcAuto\NidParcAuto\CodeSource\NidParcAuto.Security\obj\Debug\net6.0\ref\NidParcAuto.Security.dll
+C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto.Security\bin\Debug\net6.0\NidParcAuto.Security.deps.json
+C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto.Security\bin\Debug\net6.0\NidParcAuto.Security.dll
+C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto.Security\bin\Debug\net6.0\NidParcAuto.Security.pdb
+C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto.Security\obj\Debug\net6.0\NidParcAuto.Security.csproj.AssemblyReference.cache
+C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto.Security\obj\Debug\net6.0\NidParcAuto.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto.Security\obj\Debug\net6.0\NidParcAuto.Security.AssemblyInfoInputs.cache
+C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto.Security\obj\Debug\net6.0\NidParcAuto.Security.AssemblyInfo.cs
+C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto.Security\obj\Debug\net6.0\NidParcAuto.Security.csproj.CoreCompileInputs.cache
+C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto.Security\obj\Debug\net6.0\NidParcAuto.Security.dll
+C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto.Security\obj\Debug\net6.0\refint\NidParcAuto.Security.dll
+C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto.Security\obj\Debug\net6.0\NidParcAuto.Security.pdb
+C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto.Security\obj\Debug\net6.0\ref\NidParcAuto.Security.dll

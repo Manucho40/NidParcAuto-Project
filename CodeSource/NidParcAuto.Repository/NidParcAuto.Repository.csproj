@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\NidParcAuto.Contract\NidParcAuto.Contract.csproj" />
+    <ProjectReference Include="..\NidParcAuto.Entities\NidParcAuto.Entities.csproj" />
   </ItemGroup>
 
 </Project>

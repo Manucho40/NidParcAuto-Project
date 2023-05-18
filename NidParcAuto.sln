@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NidParcAuto.API", "CodeSource\NidParcAuto.API\NidParcAuto.API.csproj", "{FD7350FD-16E7-454C-A68F-E948BD1F6105}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NidParcAuto.Entities", "CodeSource\NidParcAuto.Entities\NidParcAuto.Entities.csproj", "{14FA7047-72DB-4910-910F-700B94A13D89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NidParcAuto.Entities", "CodeSource\NidParcAuto.Entities\NidParcAuto.Entities.csproj", "{14FA7047-72DB-4910-910F-700B94A13D89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NidParcAuto.Security", "CodeSource\NidParcAuto.Security\NidParcAuto.Security.csproj", "{38EFAC20-CA2C-4C53-A3D7-F7C80793F7E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NidParcAuto.Security", "CodeSource\NidParcAuto.Security\NidParcAuto.Security.csproj", "{38EFAC20-CA2C-4C53-A3D7-F7C80793F7E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NidParcAuto.Repository", "CodeSource\NidParcAuto.Repository\NidParcAuto.Repository.csproj", "{41D1CA2D-7F09-4BEC-9437-906C072F9AAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NidParcAuto.Repository", "CodeSource\NidParcAuto.Repository\NidParcAuto.Repository.csproj", "{41D1CA2D-7F09-4BEC-9437-906C072F9AAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NidParcAuto.Contract", "CodeSource\NidParcAuto.Contract\NidParcAuto.Contract.csproj", "{57D9460D-08E2-4910-A9D6-2C4C7B63EC36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NidParcAuto.Contract", "CodeSource\NidParcAuto.Contract\NidParcAuto.Contract.csproj", "{57D9460D-08E2-4910-A9D6-2C4C7B63EC36}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NidParcAuto.API", "CodeSource\NidParcAuto.API\NidParcAuto.API.csproj", "{CC90D59C-02BE-4D64-BE5E-48CF92329A80}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FD7350FD-16E7-454C-A68F-E948BD1F6105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FD7350FD-16E7-454C-A68F-E948BD1F6105}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FD7350FD-16E7-454C-A68F-E948BD1F6105}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FD7350FD-16E7-454C-A68F-E948BD1F6105}.Release|Any CPU.Build.0 = Release|Any CPU
 		{14FA7047-72DB-4910-910F-700B94A13D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{14FA7047-72DB-4910-910F-700B94A13D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14FA7047-72DB-4910-910F-700B94A13D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +35,10 @@ Global
 		{57D9460D-08E2-4910-A9D6-2C4C7B63EC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57D9460D-08E2-4910-A9D6-2C4C7B63EC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57D9460D-08E2-4910-A9D6-2C4C7B63EC36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC90D59C-02BE-4D64-BE5E-48CF92329A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC90D59C-02BE-4D64-BE5E-48CF92329A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC90D59C-02BE-4D64-BE5E-48CF92329A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC90D59C-02BE-4D64-BE5E-48CF92329A80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

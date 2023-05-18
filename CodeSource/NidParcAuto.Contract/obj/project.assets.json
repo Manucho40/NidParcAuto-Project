@@ -3276,19 +3276,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ange-Emmanuel KOUASS\\.nuget\\packages\\": {}
+    "C:\\Users\\ricky\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\.net\\NidParcAuto\\NidParcAuto\\CodeSource\\NidParcAuto.Contract\\NidParcAuto.Contract.csproj",
+      "projectUniqueName": "C:\\Users\\ricky\\source\\repos\\Manucho40\\NidParcAuto-Project\\CodeSource\\NidParcAuto.Contract\\NidParcAuto.Contract.csproj",
       "projectName": "NidParcAuto.Contract",
-      "projectPath": "G:\\.net\\NidParcAuto\\NidParcAuto\\CodeSource\\NidParcAuto.Contract\\NidParcAuto.Contract.csproj",
-      "packagesPath": "C:\\Users\\Ange-Emmanuel KOUASS\\.nuget\\packages\\",
-      "outputPath": "G:\\.net\\NidParcAuto\\NidParcAuto\\CodeSource\\NidParcAuto.Contract\\obj\\",
+      "projectPath": "C:\\Users\\ricky\\source\\repos\\Manucho40\\NidParcAuto-Project\\CodeSource\\NidParcAuto.Contract\\NidParcAuto.Contract.csproj",
+      "packagesPath": "C:\\Users\\ricky\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ricky\\Source\\Repos\\Manucho40\\NidParcAuto-Project\\CodeSource\\NidParcAuto.Contract\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Ange-Emmanuel KOUASS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ricky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3296,14 +3301,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "G:\\.net\\NidParcAuto\\NidParcAuto\\CodeSource\\NidParcAuto.Entities\\NidParcAuto.Entities.csproj": {
-              "projectPath": "G:\\.net\\NidParcAuto\\NidParcAuto\\CodeSource\\NidParcAuto.Entities\\NidParcAuto.Entities.csproj"
+            "C:\\Users\\ricky\\source\\repos\\Manucho40\\NidParcAuto-Project\\CodeSource\\NidParcAuto.Entities\\NidParcAuto.Entities.csproj": {
+              "projectPath": "C:\\Users\\ricky\\source\\repos\\Manucho40\\NidParcAuto-Project\\CodeSource\\NidParcAuto.Entities\\NidParcAuto.Entities.csproj"
             }
           }
         }
@@ -3333,7 +3339,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
