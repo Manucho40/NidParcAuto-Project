@@ -10,10 +10,11 @@ using System.Threading.Tasks;
 
 namespace NidParcAuto.Contract
 {
-    public interface IRepositoryBase<T>
+    public interface IRepositoryBase<T> where T : class
     {
         
         Task<IEnumerable<T>> FindAll();
+        Task<T> RegisterAdd(T entityObj);
         //IEnumerable<T> FindAllInheritance();
         //IEnumerable<T> FindByConditionInheritance(Expression<Func<T, bool>> expression);
         //IEnumerable<T> FindByCondition(Expression<Func<T, bool>> expression);
@@ -30,7 +31,6 @@ namespace NidParcAuto.Contract
         //void Create(T entity);
         //void Update(T entity);
         //void Delete(T entity);
-        //Task CreateAsync(T entity);
         //void CreateRange(IEnumerable<T> entities);
         //void UpdateRange(IEnumerable<T> entities);
         //void DeleteRange(IEnumerable<T> entities);

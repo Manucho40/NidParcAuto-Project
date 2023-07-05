@@ -7,7 +7,7 @@ public partial class Service
 {
     public int Idservice { get; set; }
 
-    public byte[]? LibService { get; set; }
+    public string? LibService { get; set; }
 
     public decimal IdUser { get; set; }
 

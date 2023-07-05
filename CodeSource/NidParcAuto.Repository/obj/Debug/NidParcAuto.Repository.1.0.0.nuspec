@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NidParcAuto.Repository</id>
+    <version>1.0.0</version>
+    <authors>NidParcAuto.Repository</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="NidParcAuto.Contract" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="NidParcAuto.Entities" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Repository\bin\Debug\net6.0\NidParcAuto.Repository.dll" target="lib\net6.0\NidParcAuto.Repository.dll" />
+  </files>
+</package>

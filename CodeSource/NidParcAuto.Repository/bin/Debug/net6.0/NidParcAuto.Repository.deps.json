@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "NidParcAuto.Repository/1.0.0": {
         "dependencies": {
-          "NidParcAuto.Contract": "1.0.0"
+          "NidParcAuto.Contract": "1.0.0",
+          "NidParcAuto.Entities": "1.0.0"
         },
         "runtime": {
           "NidParcAuto.Repository.dll": {}

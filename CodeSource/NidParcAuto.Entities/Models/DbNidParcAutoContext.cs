@@ -69,7 +69,7 @@ public partial class DbNidParcAutoContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Server=.\\MSSQLSERVER2022;Database=DbNidParcAuto;Trusted_Connection=True;TrustServerCertificate=True;");
+        => optionsBuilder.UseSqlServer("Server=tcp:KAE,49172\\KAEDEV;Database=DbNidParcAuto;User Id=kaedev;Password=histoire40;TrustServerCertificate=True;");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -458,7 +458,6 @@ public partial class DbNidParcAutoContext : DbContext
             entity.Property(e => e.IdMarque).HasColumnName("id_marque");
             entity.Property(e => e.DateCreation).HasColumnType("datetime");
             entity.Property(e => e.IdUser).HasColumnType("numeric(18, 0)");
-            entity.Property(e => e.Idmodele).HasColumnName("IDModele");
             entity.Property(e => e.LibMarque)
                 .HasMaxLength(150)
                 .IsUnicode(false)
@@ -467,10 +466,6 @@ public partial class DbNidParcAutoContext : DbContext
             entity.Property(e => e.ModifiePar).HasColumnType("numeric(18, 0)");
             entity.Property(e => e.StateCode).HasComment("Actif = 1,\r\nPropect = 2,\r\n            Suppression_En_Cour = 3,\r\n            Supprimer = -1,\r\n            Inactif = 0");
             entity.Property(e => e.StatusCode).HasComment("Ouverture = 1,\r\n            Expertise = 2,\r\n            Imprimer = 3,\r\n            Composer = 4,\r\n            Quittance = 5,\r\n            Regler = 6,\r\n            Sorti = 7,\r\n            Cloturer = 8,\r\n            ReSorti = 9");
-
-            entity.HasOne(d => d.IdmodeleNavigation).WithMany(p => p.Marques)
-                .HasForeignKey(d => d.Idmodele)
-                .HasConstraintName("FK_Marque_Modele");
         });
 
         modelBuilder.Entity<ModeAcquisition>(entity =>

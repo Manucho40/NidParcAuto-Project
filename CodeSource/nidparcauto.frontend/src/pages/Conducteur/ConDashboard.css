@@ -1,0 +1,22 @@
+﻿.kiloSemaine{
+    display: flex;
+
+}
+
+.carteCircle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background-color: #000;
+    color: lightgray;
+    padding: 10px;
+    border: 8px solid lightgray;
+}
+
+.carteCircle span{
+    font-weight: bold;
+}

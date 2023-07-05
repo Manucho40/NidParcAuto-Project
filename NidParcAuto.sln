@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NidParcAuto.Repository", "C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NidParcAuto.Contract", "CodeSource\NidParcAuto.Contract\NidParcAuto.Contract.csproj", "{57D9460D-08E2-4910-A9D6-2C4C7B63EC36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NidParcAuto.API", "CodeSource\NidParcAuto.API\NidParcAuto.API.csproj", "{CC90D59C-02BE-4D64-BE5E-48CF92329A80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NidParcAuto.API", "CodeSource\NidParcAuto.API\NidParcAuto.API.csproj", "{CC90D59C-02BE-4D64-BE5E-48CF92329A80}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "nidparcauto.frontend", "CodeSource\NidParcAuto.FrontEnd\nidparcauto.frontend.esproj", "{FAB09650-0B24-427D-9CD1-A6468FD680A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,12 @@ Global
 		{CC90D59C-02BE-4D64-BE5E-48CF92329A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC90D59C-02BE-4D64-BE5E-48CF92329A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC90D59C-02BE-4D64-BE5E-48CF92329A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAB09650-0B24-427D-9CD1-A6468FD680A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB09650-0B24-427D-9CD1-A6468FD680A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB09650-0B24-427D-9CD1-A6468FD680A5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FAB09650-0B24-427D-9CD1-A6468FD680A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB09650-0B24-427D-9CD1-A6468FD680A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAB09650-0B24-427D-9CD1-A6468FD680A5}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

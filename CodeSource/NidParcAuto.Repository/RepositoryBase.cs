@@ -18,14 +18,23 @@ namespace NidParcAuto.Repository
 
         public RepositoryBase(DbNidParcAutoContext repositoryContext)
         {
-            this.RepositoryContext = repositoryContext;
+            RepositoryContext = repositoryContext;
         }
 
-        public Task <IEnumerable<T>> FindAll()
+        public async Task <IEnumerable<T>> FindAll()
         {
-            return this.RepositoryContext.Set<T>().ToListAsync();
+            //var communes = this.RepositoryContext.Communes;
+            return await RepositoryContext.Set<T>().ToListAsync();
         }
 
+        public async Task<T> RegisterAdd(T entity)
+        {
+
+                RepositoryContext.Add(entity);
+                await RepositoryContext.SaveChangesAsync();
+                return entity;
+            
+        }
         //public IEnumerable<T> FindAllInheritance()
         //{
         //    return this.RepositoryContext.Set<T>().OfType<T>();

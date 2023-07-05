@@ -28,3 +28,33 @@ C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto
 C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\refint\NidParcAuto.Contract.dll
 C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.pdb
 C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\ref\NidParcAuto.Contract.dll
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Contract\bin\Debug\net6.0\NidParcAuto.Contract.deps.json
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Contract\bin\Debug\net6.0\NidParcAuto.Contract.dll
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Contract\bin\Debug\net6.0\NidParcAuto.Contract.pdb
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Contract\bin\Debug\net6.0\NidParcAuto.Entities.dll
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Contract\bin\Debug\net6.0\NidParcAuto.Entities.pdb
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.csproj.AssemblyReference.cache
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.AssemblyInfoInputs.cache
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.AssemblyInfo.cs
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.csproj.CopyComplete
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.dll
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\refint\NidParcAuto.Contract.dll
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.pdb
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\ref\NidParcAuto.Contract.dll
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Contract\bin\Debug\net6.0\NidParcAuto.Contract.deps.json
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Contract\bin\Debug\net6.0\NidParcAuto.Contract.dll
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Contract\bin\Debug\net6.0\NidParcAuto.Contract.pdb
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Contract\bin\Debug\net6.0\NidParcAuto.Entities.dll
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Contract\bin\Debug\net6.0\NidParcAuto.Entities.pdb
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.csproj.AssemblyReference.cache
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.GeneratedMSBuildEditorConfig.editorconfig
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.AssemblyInfoInputs.cache
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.AssemblyInfo.cs
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.csproj.CoreCompileInputs.cache
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.csproj.CopyComplete
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.dll
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\refint\NidParcAuto.Contract.dll
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\NidParcAuto.Contract.pdb
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Contract\obj\Debug\net6.0\ref\NidParcAuto.Contract.dll

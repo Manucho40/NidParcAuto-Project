@@ -32,3 +32,37 @@ C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto
 C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\refint\NidParcAuto.Repository.dll
 C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.pdb
 C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\ref\NidParcAuto.Repository.dll
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Repository\bin\Debug\net6.0\NidParcAuto.Repository.deps.json
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Repository\bin\Debug\net6.0\NidParcAuto.Repository.dll
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Repository\bin\Debug\net6.0\NidParcAuto.Repository.pdb
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Repository\bin\Debug\net6.0\NidParcAuto.Contract.dll
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Repository\bin\Debug\net6.0\NidParcAuto.Entities.dll
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Repository\bin\Debug\net6.0\NidParcAuto.Contract.pdb
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Repository\bin\Debug\net6.0\NidParcAuto.Entities.pdb
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.csproj.AssemblyReference.cache
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.AssemblyInfoInputs.cache
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.AssemblyInfo.cs
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.csproj.CopyComplete
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.dll
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\refint\NidParcAuto.Repository.dll
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.pdb
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\ref\NidParcAuto.Repository.dll
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Repository\bin\Debug\net6.0\NidParcAuto.Repository.deps.json
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Repository\bin\Debug\net6.0\NidParcAuto.Repository.dll
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Repository\bin\Debug\net6.0\NidParcAuto.Repository.pdb
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Repository\bin\Debug\net6.0\NidParcAuto.Contract.dll
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Repository\bin\Debug\net6.0\NidParcAuto.Entities.dll
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Repository\bin\Debug\net6.0\NidParcAuto.Contract.pdb
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Repository\bin\Debug\net6.0\NidParcAuto.Entities.pdb
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.csproj.AssemblyReference.cache
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.GeneratedMSBuildEditorConfig.editorconfig
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.AssemblyInfoInputs.cache
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.AssemblyInfo.cs
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.csproj.CoreCompileInputs.cache
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.csproj.CopyComplete
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.dll
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\refint\NidParcAuto.Repository.dll
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\NidParcAuto.Repository.pdb
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Repository\obj\Debug\net6.0\ref\NidParcAuto.Repository.dll

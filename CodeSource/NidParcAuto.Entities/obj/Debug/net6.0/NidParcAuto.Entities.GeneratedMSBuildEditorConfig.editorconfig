@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NidParcAuto.Entities
-build_property.ProjectDir = C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto.Entities\
+build_property.ProjectDir = G:\.net\NidParcAuto\CodeSource\NidParcAuto.Entities\

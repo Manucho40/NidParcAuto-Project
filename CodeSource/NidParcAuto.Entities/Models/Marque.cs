@@ -9,7 +9,7 @@ public partial class Marque
 
     public string? LibMarque { get; set; }
 
-    public int? Idmodele { get; set; }
+    //public int? Idmodele { get; set; }
 
     public decimal IdUser { get; set; }
 
@@ -41,7 +41,7 @@ public partial class Marque
     /// </summary>
     public int StatusCode { get; set; }
 
-    public virtual Modele? IdmodeleNavigation { get; set; }
+    //public virtual Modele? IdmodeleNavigation { get; set; }
 
     public virtual ICollection<Vehicule> Vehicules { get; set; } = new List<Vehicule>();
 }

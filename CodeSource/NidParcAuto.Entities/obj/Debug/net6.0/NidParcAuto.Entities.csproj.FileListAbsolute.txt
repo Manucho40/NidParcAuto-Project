@@ -26,3 +26,31 @@ C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto
 C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\NidParcAuto.Entities.pdb
 C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\NidParcAuto.Entities.genruntimeconfig.cache
 C:\Users\ricky\source\repos\Manucho40\NidParcAuto-Project\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\ref\NidParcAuto.Entities.dll
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Entities\bin\Debug\net6.0\NidParcAuto.Entities.deps.json
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Entities\bin\Debug\net6.0\NidParcAuto.Entities.runtimeconfig.json
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Entities\bin\Debug\net6.0\NidParcAuto.Entities.dll
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Entities\bin\Debug\net6.0\NidParcAuto.Entities.pdb
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\NidParcAuto.Entities.csproj.AssemblyReference.cache
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\NidParcAuto.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\NidParcAuto.Entities.AssemblyInfoInputs.cache
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\NidParcAuto.Entities.AssemblyInfo.cs
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\NidParcAuto.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\NidParcAuto.Entities.dll
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\refint\NidParcAuto.Entities.dll
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\NidParcAuto.Entities.pdb
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\NidParcAuto.Entities.genruntimeconfig.cache
+C:\Users\Ange-Emmanuel KOUASS\Desktop\NidParcAuto\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\ref\NidParcAuto.Entities.dll
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Entities\bin\Debug\net6.0\NidParcAuto.Entities.deps.json
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Entities\bin\Debug\net6.0\NidParcAuto.Entities.runtimeconfig.json
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Entities\bin\Debug\net6.0\NidParcAuto.Entities.dll
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Entities\bin\Debug\net6.0\NidParcAuto.Entities.pdb
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\NidParcAuto.Entities.csproj.AssemblyReference.cache
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\NidParcAuto.Entities.GeneratedMSBuildEditorConfig.editorconfig
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\NidParcAuto.Entities.AssemblyInfoInputs.cache
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\NidParcAuto.Entities.AssemblyInfo.cs
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\NidParcAuto.Entities.csproj.CoreCompileInputs.cache
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\NidParcAuto.Entities.dll
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\refint\NidParcAuto.Entities.dll
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\NidParcAuto.Entities.pdb
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\NidParcAuto.Entities.genruntimeconfig.cache
+G:\.net\NidParcAuto\CodeSource\NidParcAuto.Entities\obj\Debug\net6.0\ref\NidParcAuto.Entities.dll
